@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1709039290 source:c:\users\guilh\onedrive\documentos\trabpaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	"mochila.h"
+	"arq.h"
+
+1709039318 c:\users\guilh\onedrive\documentos\trabpaa\matriz.h
+
+1709039341 c:\users\guilh\onedrive\documentos\trabpaa\mochila.h
+
+1709039280 c:\users\guilh\onedrive\documentos\trabpaa\arq.h
+
+1709039302 source:c:\users\guilh\onedrive\documentos\trabpaa\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1709039329 source:c:\users\guilh\onedrive\documentos\trabpaa\mochila.c
+	<stdio.h>
+	<stdlib.h>
+	"mochila.h"
+
+1709039589 source:c:\users\guilh\onedrive\documentos\trabpaa\arq.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	"mochila.h"
+	"arq.h"
+
